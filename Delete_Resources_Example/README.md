@@ -9,7 +9,7 @@ This is a sample project to demonstrate usage of Spring Batch Tasklet.
 More details about this project can be found in my blog article <a href="http://www.skilledmonster.com/frameworks/spring/batch/sample-project-integrating-spring-batch-and-spring-integration-modules/">here</a>.
 
 <h2>Author</h2>
-<p>Jagadeesh Motamarri [ <a href="http://www.skilledmonster.com">Blog</a> | <a href="http://twitter.com/SkilledMonster">Twitter</a> ]</p>
+<p>Jagadeesh Motamarri [ <a href="http://www.skilledmonster.com">Blog</a> | <a href="http://twitter.com/SkilledMonster">Twitter</a> | <a href="http://www.facebook.com/SkilledMonster">Facebook</a> ]</p>
 
 <h2>Spring Batch</h2>
 
